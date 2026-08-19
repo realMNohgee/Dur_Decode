@@ -1,4 +1,5 @@
 # Dur_Decode
+![CI](https://github.com/realMNohgee/Dur_Decode/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Parse, convert, and compare duration strings — zero dependencies, Python stdlib only.
 
